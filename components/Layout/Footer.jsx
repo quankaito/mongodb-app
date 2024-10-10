@@ -9,9 +9,12 @@ const Footer = () => {
     <footer className={styles.footer}>
       <Wrapper>
         <Text color="accents-7">
-          Made with ❤️, 🔥, and a keyboard by{' '}
-          <TextLink href="https://hoangvvo.com/" color="link">
-            Hoang Vo
+          Made with (❁´◡`❁), ✍️(◔◡◔), and a keyboard by{' '}
+          <TextLink
+            href="https://github.com/quankaito/mongodb-app"
+            color="link"
+          >
+            quankaitober
           </TextLink>
           .
         </Text>

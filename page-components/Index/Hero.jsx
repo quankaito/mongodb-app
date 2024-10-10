@@ -21,7 +21,7 @@ const Hero = () => {
           <Spacer axis="horizontal" size={1} />
           <Container>
             <ButtonLink
-              href="https://github.com/hoangvvo/nextjs-mongodb-app"
+              href="https://github.com/quankaito/mongodb-app"
               type="secondary"
               className={styles.button}
             >
@@ -31,7 +31,7 @@ const Hero = () => {
         </Container>
         <p className={styles.subtitle}>
           A Next.js and MongoDB web application, designed with simplicity for
-          learning and real-world applicability in mind.
+          learning.
         </p>
       </div>
     </Wrapper>
